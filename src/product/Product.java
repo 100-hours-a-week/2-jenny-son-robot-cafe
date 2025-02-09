@@ -1,4 +1,4 @@
-package products;
+package product;
 
 public class Product {
     String name;
@@ -17,9 +17,10 @@ public class Product {
     }
 
     // 가격을 반환하는 함수
-    public int getPrice() {
-        return price;
-    }
+    public int getPrice() { return price; }
+
+    // 이름을 반환하는 함수
+    public String getName() { return name; }
 
     // 메뉴 서빙하는 함수
     public void serve() {

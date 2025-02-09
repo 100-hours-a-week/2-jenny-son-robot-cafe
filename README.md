@@ -1,4 +1,4 @@
-# ☕️ robot-cafe
+# ☕️ robotSystem-cafe
 
 <br/>
 
@@ -11,7 +11,7 @@
 <br/>
 
 ## ☕️ 클래스 다이어그램
-![robot-cafe](https://github.com/user-attachments/assets/c4a4a5a9-16b4-4926-afd9-13a10d284532)
+![robotSystem-cafe](https://github.com/user-attachments/assets/c4a4a5a9-16b4-4926-afd9-13a10d284532)
 
 
 ## ☕️ 시나리오

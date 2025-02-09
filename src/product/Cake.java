@@ -1,4 +1,4 @@
-package products;
+package product;
 
 public class Cake extends Product {
     Cake() {

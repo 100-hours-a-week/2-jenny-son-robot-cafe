@@ -1,6 +1,4 @@
-package products;
-
-import java.time.temporal.TemporalQueries;
+package product;
 
 public enum Temperature {
     HOT("hot"),

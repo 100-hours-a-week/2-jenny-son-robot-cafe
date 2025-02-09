@@ -1,4 +1,4 @@
-package features;
+package order;
 
 import java.util.Scanner;
 

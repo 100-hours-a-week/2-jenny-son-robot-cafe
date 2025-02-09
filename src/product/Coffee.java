@@ -1,4 +1,4 @@
-package products;
+package product;
 
 public class Coffee extends Beverage{
     Size size;  // tall, grande, venti

@@ -1,4 +1,4 @@
-package products;
+package product;
 
 public class Shake extends Beverage {
     boolean whipping;
