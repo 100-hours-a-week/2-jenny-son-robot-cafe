@@ -18,6 +18,11 @@ public class ProductFactory {
                 System.out.println("디카페인 여부를 선택해주세요. (예: 1, 아니오: 0)");
                 boolean decaffein = Validator.getValidBooleanInput();
 
+                // 사이즈업하는 경우 가격 추가
+                if (Size.TALL != size) {
+                    price += (Size.GRANDE == size)?1000:1500;
+                }
+
                 return new Coffee(name, price, size, temp, decaffein);
             case 4:
             case 5:

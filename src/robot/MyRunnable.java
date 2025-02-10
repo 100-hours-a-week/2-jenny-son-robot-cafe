@@ -1,7 +1,7 @@
 package robot;
 
 public class MyRunnable implements Runnable {
-    Robot robot;
+    public Robot robot;
 
     public MyRunnable (Robot robot) {
         this.robot = robot;
